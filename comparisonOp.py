@@ -64,3 +64,8 @@ print(f" OR logical op: {(900 < 100) or (1 == 1)}")
 # print(f"name and country"  {name and country})
 
 # decisions --> branching 
+
+if (90>100)
+print ("90 is greater than 100")
+print (90+20)
+
